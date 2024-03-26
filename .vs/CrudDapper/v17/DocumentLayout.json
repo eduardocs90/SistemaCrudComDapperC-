@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\ProjetosC#\\CrudDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F7D37D-BF58-44FE-B618-FF2E3CEF06CF}|CrudDapper\\CrudDapper.csproj|c:\\dev\\projetosc#\\cruddapper\\cruddapper\\services\\livroservice\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F7D37D-BF58-44FE-B618-FF2E3CEF06CF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\services\\livroservice\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F7D37D-BF58-44FE-B618-FF2E3CEF06CF}|CrudDapper\\CrudDapper.csproj|c:\\dev\\projetosc#\\cruddapper\\cruddapper\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F7D37D-BF58-44FE-B618-FF2E3CEF06CF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F7D37D-BF58-44FE-B618-FF2E3CEF06CF}|CrudDapper\\CrudDapper.csproj|c:\\dev\\projetosc#\\cruddapper\\cruddapper\\services\\livroservice\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F7D37D-BF58-44FE-B618-FF2E3CEF06CF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\services\\livroservice\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\CrudDapper\\CrudDapper\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\CrudDapper\\CrudDapper\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "CrudDapper\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:00:43.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\CrudDapper\\CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\CrudDapper\\CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "RelativeToolTip": "CrudDapper\\Services\\LivroService\\LivroService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:56:56.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILivroInterface.cs",
+              "DocumentMoniker": "C:\\Dev\\ProjetosC#\\CrudDapper\\CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "ToolTip": "C:\\Dev\\ProjetosC#\\CrudDapper\\CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "RelativeToolTip": "CrudDapper\\Services\\LivroService\\ILivroInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:58:12.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
